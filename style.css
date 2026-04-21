@@ -1,0 +1,10 @@
+h1{
+    color: red;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+p{
+    color: blue;
+    font-size: 18px;
+    line-height: 1.5;
+}
